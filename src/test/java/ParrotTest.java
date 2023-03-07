@@ -7,6 +7,7 @@ public class ParrotTest {
 
     /**
      * If p.copy is passed "hello", it should return "hello".
+     * @param hello 
      */
     @Test
     public void parrotTestHello(){
